@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQEqVQbfCt3CLg/profile-displaybackgroundimage-shrink_350_1400/0/1694556133146?e=1700092800&v=beta&t=VW7jjzTSOWTHTFJUV_EEd1sXrHkGR634Y1VqAZHQ6rQ)
 <h1 align="center">Hi 👋, I'm Ravindu Wijerathne</h1>
 <h3 align="center">A passionate final year software engineering undergraduate from Sri Lanka, currently studying at SLIIT.</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Tg07mzS3l76AWhYXvaN8FBfWtBgKcWGQ/view?usp=sharing">
