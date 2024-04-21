@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravindu629](https://github.com/ravindu629)
   
-- ![image](https://github.com/ravindu629/ravindu629/assets/94077924/2fa0f6a7-6e8f-4508-b1be-47da83d76241) My portfolio website available at [https://ravindu629.github.io/portfolio-website/](https://ravindu629.github.io/portfolio-website/)
+- 🌟 My portfolio website available at [https://ravindu629.github.io/portfolio-website/](https://ravindu629.github.io/portfolio-website/)
 
 - 📝 I regularly write articles on [https://medium.com/@ravinduwijerathne629](https://medium.com/@ravinduwijerathne629)
 
