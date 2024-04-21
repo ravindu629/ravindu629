@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQEqVQbfCt3CLg/profile-displaybackgroundimage-shrink_350_1400/0/1694556133146?e=1700092800&v=beta&t=VW7jjzTSOWTHTFJUV_EEd1sXrHkGR634Y1VqAZHQ6rQ)
+![image](https://github.com/ravindu629/ravindu629/assets/94077924/83b64112-4dac-470a-bd23-a3a48f2dbeff)![MasterHead](https://media.licdn.com/dms/image/D4E16AQEqVQbfCt3CLg/profile-displaybackgroundimage-shrink_350_1400/0/1694556133146?e=1700092800&v=beta&t=VW7jjzTSOWTHTFJUV_EEd1sXrHkGR634Y1VqAZHQ6rQ)
 <h1 align="center">Hi 👋, I'm Ravindu Wijerathne</h1>
 <h3 align="center">A passionate final year software engineering undergraduate from Sri Lanka, currently studying at SLIIT.</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1Tg07mzS3l76AWhYXvaN8FBfWtBgKcWGQ/view?usp=sharing">
@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **React - The Complete Guide 2023 (incl. React Router & Redux)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravindu629](https://github.com/ravindu629)
+  
+- ![image](https://github.com/ravindu629/ravindu629/assets/94077924/2fa0f6a7-6e8f-4508-b1be-47da83d76241) My portfolio website available at [https://ravindu629.github.io/portfolio-website/](https://ravindu629.github.io/portfolio-website/)
 
 - 📝 I regularly write articles on [https://medium.com/@ravinduwijerathne629](https://medium.com/@ravinduwijerathne629)
 
