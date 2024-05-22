@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindu629&label=Profile%20views&color=0e75b6&style=flat" alt="ravindu629" /> </p>
 
-- 🌱 I’m currently learning **React - The Complete Guide 2023 (incl. React Router & Redux)**
+- 🌱 I’m currently learning **Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB** and **Build real world e-commerce application using ASP.NET Core MVC, Entity Framework Core and ASP.NET Core Identity**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravindu629](https://github.com/ravindu629)
   
 - 🌟 My portfolio website available at [https://ravindu629.github.io/portfolio-website/](https://ravindu629.github.io/portfolio-website/)
 
 - 📝 I regularly write articles on [https://medium.com/@ravinduwijerathne629](https://medium.com/@ravinduwijerathne629)
-
-- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **ravinduwdmr@gmail.com**
 
