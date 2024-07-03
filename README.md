@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1MM9-ArNC81pctPTbnLDDD7-pPJdkTFag">
+<img alt="Banner" width="100%" src="https://drive.google.com/uc?export=view&id=1MM9-ArNC81pctPTbnLDDD7-pPJdkTFag">
+
 <h1 align="center">Hi 👋, I'm Ravindu Wijerathne</h1>
 <h3 align="center">A Passionate Software Engineering Graduate from Sri Lanka.</h3>
 
