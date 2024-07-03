@@ -1,7 +1,7 @@
 ![image](https://github.com/ravindu629/ravindu629/assets/94077924/83b64112-4dac-470a-bd23-a3a48f2dbeff)![MasterHead](https://media.licdn.com/dms/image/D4E16AQEqVQbfCt3CLg/profile-displaybackgroundimage-shrink_350_1400/0/1694556133146?e=1700092800&v=beta&t=VW7jjzTSOWTHTFJUV_EEd1sXrHkGR634Y1VqAZHQ6rQ)
 <h1 align="center">Hi 👋, I'm Ravindu Wijerathne</h1>
 <h3 align="center">A Passionate Software Engineering Graduate from Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="[https://drive.google.com/file/d/1Tg07mzS3l76AWhYXvaN8FBfWtBgKcWGQ/view?usp=sharing](https://drive.google.com/file/d/1MM9-ArNC81pctPTbnLDDD7-pPJdkTFag/view?usp=sharing)">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1MM9-ArNC81pctPTbnLDDD7-pPJdkTFag">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindu629&label=Profile%20views&color=0e75b6&style=flat" alt="ravindu629" /> </p>
 
