@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ravindu Wijerathne</h1>
 <h3 align="center">A Passionate Software Engineering Graduate from Sri Lanka.</h3>
 
-- 🌱 I’m currently learning **Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB** and **Build real world e-commerce application using ASP.NET Core MVC, Entity Framework Core and ASP.NET Core Identity**.
+- 🌱 I’m currently learning **Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravindu629](https://github.com/ravindu629)
   
