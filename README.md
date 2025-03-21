@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ravindu629](https://github.com/ravindu629)
   
-- 🌟 My portfolio website available at [https://ravindu629.github.io/portfolio-website/](https://ravindu629.github.io/portfolio-website/)
+- 🌟 My portfolio website available at (https://ravindu-wijerathne.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ravinduwijerathne629](https://medium.com/@ravinduwijerathne629)
 
